@@ -1,13 +1,8 @@
 body {
     font-family: 'JetBrains Mono', monospace;
     background:  #2F2E41;
-
-    
-
     margin: 0;
-
     padding: 0;
-    
 }
 
 .page {
@@ -17,13 +12,10 @@ body {
 
 
 nav {
-    
     display: flex;
     justify-content: space-between;
-    
-
 }
-
+    
 ul {
     display: flex;
     gap: 64px;
@@ -35,17 +27,11 @@ ul li a  {
     font-weight: 500;
     font-size: 14px;
     line-height: 28px;
-    
-    
-    
     text-decoration:none;
-
     margin: 0;
     padding: 0;
     
 }
-
-
 
 a {
     text-decoration: none;
@@ -59,20 +45,17 @@ main {
     margin: 101px 0 157px;
     
 }
-
+    
 section {
     text-align: center;
     width: 614px;
 }
-
 
 h1 {
     font-family: 'JetBrains Mono', monospace;
     color: #FFFFFF;
     font-size: 36px;
     margin: 0 0 47px;
-    
-
 }
 
 .verde {
@@ -86,9 +69,8 @@ section p {
     line-height: 28px;
     text-align: center;
     margin: 0;
-
-    
 }
+
 #line {
     margin: 0 auto;
     width: 568px;
@@ -109,5 +91,11 @@ footer {
     bottom: 0;
     padding: 20px;
 }
+
+
+
+
+
+
 
    
